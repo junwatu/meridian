@@ -6,6 +6,8 @@
 
 Meridian runs continuous screening and management cycles, deploying capital into high-quality Meteora DLMM pools and closing positions based on live PnL, yield, and range data. It learns from every position it closes.
 
+For a developer-oriented walkthrough of the core system, architecture, runtime flow, and safety layers, see [CORE_SYSTEM.md](./CORE_SYSTEM.md). For a beginner-friendly modular handbook written for Node.js full-stack developers who are new to Web3, see [handbook/README.md](./handbook/README.md).
+
 ---
 
 ## What it does
